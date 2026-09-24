@@ -1,40 +1,31 @@
-# Hi, I'm Asgar Aliyev 
+# Hi, I'm Asgar Aliyev
 
-Data Scientist | ML · Deep Learning · Computer Vision · NLP · Audio 
+I'm a Civil Engineering student building my way into Data and AI.
 
-I build end-to-end ML solutions, from raw data cleaning to model training and evaluation.
-Currently focused on Computer Vision, NLP, and Audio Processing using PyTorch.
+I'm currently rebuilding my foundations in Python, data analysis, machine learning, and AI engineering, with a focus on understanding things deeply rather than just making them work.
 
----
+I'm learning by building, making mistakes, documenting what I learn, and gradually turning small experiments into real projects.
 
-## 🛠️ Tech Stack
+## What I'm working on
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- Python and programming fundamentals
+- Data analysis and SQL
+- Machine learning and deep learning
+- AI engineering and applied AI
+- Eventually, the intersection of AI, civil engineering, and urban analytics
 
----
+## Projects
 
-## 📌 Areas of Focus
+I'm currently rebuilding my foundations and starting a new long-term project where I'll document the process openly.
 
-- **Computer Vision** — CNNs, Transfer Learning, Fine-tuning
-- **NLP** — Text Classification, Transformers, BERT
-- **Audio** — Feature Extraction, Speech Models
-- **ML** — EDA, Feature Engineering, XGBoost
-- **BI & Visualization** — Power BI, Tableau
+More coming soon.
 
----
+## A little more about me
 
-## 📂 Projects
+I don't want to just learn technologies. I want to understand how things work, build useful things with them, and keep improving over time.
 
-> 🔨 Currently building — check back soon.
+This profile is a record of that process.
 
----
+## Contact
 
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asgaraliev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asgar-aliyev-03a527279)
+[LinkedIn](https://www.linkedin.com/in/asgar-aliyev-03a527279)
